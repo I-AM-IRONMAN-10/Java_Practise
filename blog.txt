@@ -1,1 +1,5 @@
 This would be the place where i check for what i have done every day 
+
+day 1 (31.03.2026)
+
+today i learn about the print and primitive types

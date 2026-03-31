@@ -1,1 +1,6 @@
 this text file is for clearing my doubts 
+
+ day 1 doubt  
+1) we use string arg[] and string [] arg are they same and why it differs 
+ANSWER:
+OLD STYLE String args[] says args is an array  and focus on variables NEW JAVA String[] args says this is a type and focus on datatypes
